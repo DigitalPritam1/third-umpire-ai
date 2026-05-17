@@ -1,0 +1,42 @@
+[
+  {
+    "name": "chepauk",
+    "pitchType": "Turning",
+    "dewImpact": "Low",
+    "averageFirstInningsScore": 165,
+    "chasingAdvantage": "Low",
+    "tacticalNotes": "Spinners are highly effective in the middle overs. Batting first is often preferred."
+  },
+  {
+    "name": "wankhede",
+    "pitchType": "Flat",
+    "dewImpact": "High",
+    "averageFirstInningsScore": 185,
+    "chasingAdvantage": "High",
+    "tacticalNotes": "Pace bowlers get early swing, but it becomes a batting paradise later. Chase is heavily favored due to dew."
+  },
+  {
+    "name": "chinnaswamy",
+    "pitchType": "Flat",
+    "dewImpact": "Moderate",
+    "averageFirstInningsScore": 195,
+    "chasingAdvantage": "Moderate",
+    "tacticalNotes": "Small boundaries make defending very difficult. High-scoring venue."
+  },
+  {
+    "name": "eden gardens",
+    "pitchType": "Balanced",
+    "dewImpact": "High",
+    "averageFirstInningsScore": 175,
+    "chasingAdvantage": "Moderate",
+    "tacticalNotes": "Good pace and bounce. Dew factor in second innings makes gripping the ball hard for spinners."
+  },
+  {
+    "name": "narendra modi",
+    "pitchType": "Pace",
+    "dewImpact": "Moderate",
+    "averageFirstInningsScore": 180,
+    "chasingAdvantage": "Balanced",
+    "tacticalNotes": "Red soil pitches offer bounce, black soil is slower. Adapt to the specific strip."
+  }
+]

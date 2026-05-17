@@ -1,0 +1,27 @@
+{
+  "Chepauk": {
+    "averageScore": 165,
+    "favors": "Spin",
+    "chaseSuccessRate": "45%"
+  },
+  "Wankhede": {
+    "averageScore": 185,
+    "favors": "Pace",
+    "chaseSuccessRate": "55%"
+  },
+  "Chinnaswamy": {
+    "averageScore": 195,
+    "favors": "Batting",
+    "chaseSuccessRate": "52%"
+  },
+  "Eden Gardens": {
+    "averageScore": 175,
+    "favors": "Balanced",
+    "chaseSuccessRate": "48%"
+  },
+  "Narendra Modi": {
+    "averageScore": 180,
+    "favors": "Pace",
+    "chaseSuccessRate": "50%"
+  }
+}
